@@ -1,21 +1,22 @@
-ProtoSnap- LilyPad Development Board
-====================================
+Tarjeta de Desarrollo ProtoSnap LilyPad 
+========================================
 
 [![LilyPad Protosnap](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/2/6/2/11262-01_i_ma.jpg)
-*ProtoSnap-LilyPad Development Board (DEV-11262)*](https://www.sparkfun.com/products/11262)
+*Tarjeta de Desarrollo ProtoSnap LilyPad (DEV-11262)*](https://www.sparkfun.com/products/11262)
 
-The ProtoSnap LilyPad Development Board allows you to start prototyping in the world of e-textiles without a breadboard.
+La Tarjeta de Desarrollo ProtoSnap LilyPad le premitira crear prototipos en el mundo de los electronicos textiles sin una breabboard o protoboard. 
 
-Repository Contents
--------------------
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)
+Contenido del Repositorio
+--------------------------
+* **/Hardware** - Todos los archivos de diseño de EAGLE (.brd, .sch, .STL)
+* **/Codigo** - Código de ejemplo (.ino)
 
-Product Versions
-----------------
-* [DEV-11262](https://www.sparkfun.com/products/11262)- This is the standard ProtoSnap LilyPad Development Board
-* [RTL-11261] (https://www.sparkfun.com/products/11261)- Retail version of the ProtoSnap LilyPad Development Board. 
+Versiones del Producto
+-----------------------
+* [DEV-11262](https://www.sparkfun.com/products/11262)- Esta es la tarjeta de Desarrollo ProtoSnap LilyPad estándar.
+* [RTL-11261] (https://www.sparkfun.com/products/11261)- Versión al por menor de la tarjeta de Desarrollo ProtoSnap LilyPad. 
 
-License Information
--------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
+Información de la licencia
+---------------------------
+El contenido de este repositorio se encuentra bajo licencia [Creative Commons Atribución-Compartir Igual 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
 
